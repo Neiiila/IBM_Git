@@ -1,7 +1,7 @@
 # IBM_Git
 Final Project
 
-##resume 
+## resume 
 final project is & calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
